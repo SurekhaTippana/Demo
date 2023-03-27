@@ -1,0 +1,28 @@
+#body_of_page{
+    width:100%;
+    height:100vh;
+}
+body{
+    background-image: linear-gradient(rgba(39,39,52),black);
+}
+#containerinfo{
+    position:absolute;
+    width:80%;
+    height:80vh;
+    top:110vh;
+    bottom:80px;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px black;
+}
+#bloggerimage{
+    width:40%;
+    height:100%;
+    background-image:human img ;
+}
+#authorName{
+    position:absolute;
+    right:40px;
+    top:40px;
+    r
+}
